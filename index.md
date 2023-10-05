@@ -42,8 +42,15 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련 이미지.jpg">
+  <img src="./img/그림.jpg">
 
   
 - 동영상
-  [![](./img/그림.png)](https://youtu.be/kDa_4oBuZKk?si=N666LC11y2Jfhv0b)
+  [![](./img/참고이미지.png)](https://youtu.be/kDa_4oBuZKk?si=N666LC11y2Jfhv0b)
+  
+<br><br>
+
+# [대표 이미지]
+
+![그림](./img/관련 이미지.png)
+
