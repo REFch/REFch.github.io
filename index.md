@@ -43,5 +43,7 @@
 
 - 이미지  
   <img src="./img/관련 이미지.jpg">
+
+  
 - 동영상
-  [![](./img/그림.png)]([https://www.youtube.com/watch?v=5xy4n73WOMM](https://youtu.be/kDa_4oBuZKk?si=9BKoNPQd8asMj7QR)https://youtu.be/kDa_4oBuZKk?si=9BKoNPQd8asMj7QR)
+  [![](./img/그림.png)](https://youtu.be/kDa_4oBuZKk?si=N666LC11y2Jfhv0b)
