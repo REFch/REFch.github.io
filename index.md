@@ -42,4 +42,4 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/KakaoTalk_20230914_153006937.jpg">
+  <img src="./img/관련이미지.jpg">
