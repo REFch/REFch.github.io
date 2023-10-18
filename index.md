@@ -114,14 +114,14 @@ Unity Engine을 사용하여 PC 및 모바일에서 플레이 할 수 있도록 
 |3|멘탈|<img src="./img/홍길동선수.png" height="300">|
 |4|스케줄표시|<img src="./img/골킵.png" height="300">|
 |5|버프|<img src="./img/.png" width="500">|
-|1|디버프|<img src="./img/.png" width="500">|
-|1|팬 수|<img src="./img/.png" width="500">|
-|1|재화량|<img src="./img/.png" width="500">|
-|1|컴퓨터|<img src="./img/.png" width="500">|
-|1|운동기구|<img src="./img/.png" width="500">|
-|1|스케줄|<img src="./img/.png" width="500">|
-|1|스탯|<img src="./img/.png" width="500">|
-|1|행동|<img src="./img/.png" width="500">|
-|1|가방|<img src="./img/.png" width="500">|
-|1|상점|<img src="./img/.png" width="500">|
-|1|간식|<img src="./img/.png" width="500">|
+|6|디버프|<img src="./img/.png" width="500">|
+|7|팬 수|<img src="./img/.png" width="500">|
+|8|재화량|<img src="./img/.png" width="500">|
+|9|컴퓨터|<img src="./img/.png" width="500">|
+|10|운동기구|<img src="./img/.png" width="500">|
+|11|스케줄|<img src="./img/.png" width="500">|
+|12|스탯|<img src="./img/.png" width="500">|
+|13|행동|<img src="./img/.png" width="500">|
+|14|가방|<img src="./img/.png" width="500">|
+|15|상점|<img src="./img/.png" width="500">|
+|16|간식|<img src="./img/.png" width="500">|
