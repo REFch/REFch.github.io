@@ -185,5 +185,6 @@ Unity Engine을 사용하여 PC 및 모바일에서 플레이 할 수 있도록 
 |5|명상|meditation|주인공이 경기에 참여한다|
 
 <br>
+
 # [스토리보드]
   <img src="./img/story.png">
