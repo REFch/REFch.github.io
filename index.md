@@ -109,19 +109,81 @@ Unity Engine을 사용하여 PC 및 모바일에서 플레이 할 수 있도록 
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공|<img src="./img/.png" width="500">|
-|2|컨디션|<img src="./img/골대.png" width="500">|
-|3|멘탈|<img src="./img/홍길동선수.png" height="300">|
-|4|스케줄표시|<img src="./img/골킵.png" height="300">|
-|5|버프|<img src="./img/.png" width="500">|
-|6|디버프|<img src="./img/.png" width="500">|
-|7|팬 수|<img src="./img/.png" width="500">|
-|8|재화량|<img src="./img/.png" width="500">|
-|9|컴퓨터|<img src="./img/.png" width="500">|
-|10|운동기구|<img src="./img/.png" width="500">|
-|11|스케줄|<img src="./img/.png" width="500">|
-|12|스탯|<img src="./img/.png" width="500">|
-|13|행동|<img src="./img/.png" width="500">|
-|14|가방|<img src="./img/.png" width="500">|
-|15|상점|<img src="./img/.png" width="500">|
-|16|간식|<img src="./img/.png" width="500">|
+|1|주인공|<img src="./img/gamer.png" width="500">|
+|2|컨디션|<img src="./img/condition.png" width="500">|
+|3|멘탈|<img src="./img/mental.png" height="300">|
+|4|스케줄표시|<img src="./img/schedulebar.png" height="300">|
+|5|이벤트|<img src="./img/event.png" width="500">|
+|6|이벤트결과|<img src="./img/eventresult.png" width="500">|
+|7|팬 수|<img src="./img/fan.png" width="500">|
+|8|재화량|<img src="./img/gold.png" width="500">|
+|9|컴퓨터|<img src="./img/pc.png" width="500">|
+|10|운동기구|<img src="./img/machine.png" width="500">|
+|11|스케줄|<img src="./img/schedule.png" width="500">|
+|12|스탯|<img src="./img/stat.png" width="500">|
+|13|행동|<img src="./img/action.png" width="500">|
+|14|가방|<img src="./img/inventory.png" width="500">|
+|15|업적|<img src="./img/reward.png" width="500">|
+|16|간식|<img src="./img/option.png" width="500">|
+
+<br>
+
+# 2. 파라미터 (속성)
+
+|속성|영문명칭|설명|
+|:----:|:----:|:----:|
+|1|-|-|-|
+|2|-|-|-|
+|3|-|-|-|
+|4|-|-|-|
+
+
+<br>
+
+# 3. 행동
+
+## 1. 오브젝트 이름 : PC
+|행동|영문명칭|설명|
+|:----:|:----:|:----:|
+|1|경기|pc_match|현재 스케줄이 경기일 때 발생하는 행동|
+|2|연습|pc_practice|현재 스케줄이 연습일 때 발생하는 행동|
+
+## 2. 오브젝트 이름 : 운동기구
+|행동|영문명칭|설명|
+|:----:|:----:|:----:|
+|1|운동|mc_health|현재 스케줄이 운동일 때 발생하는 행동|
+
+
+<br>
+
+
+# 4. 상태
+
+## 1. 오브젝트 이름 : 스케줄 편성
+|행동|영문명칭|설명|
+|:----:|:----:|:----:|
+|1|1주차 빈칸|경기 / 연습 / 운동 중 택1|플레이어가 스케줄 3가지 중 한가지를 선택한다|
+|2|2주차 빈칸|경기 / 연습 / 운동 중 택1|플레이어가 스케줄 3가지 중 한가지를 선택한다|
+|3|3주차 빈칸|경기 / 연습 / 운동 중 택1|플레이어가 스케줄 3가지 중 한가지를 선택한다|
+|4|4주차 빈칸|경기 / 연습 / 운동 중 택1|플레이어가 스케줄 3가지 중 한가지를 선택한다|
+
+## 2. 오브젝트 이름 : 상태바
+|행동|영문명칭|설명|
+|:----:|:----:|:----:|
+|1|컨디션O|컨디션X|휴식을 하지 않고 스케줄 진행 시|
+|2|멘탈O|멘탈X|명상을 하지 않고 스케줄 진행 시|
+
+<br>
+
+# 5. 플레이어 캐릭터 속성 (파라미터)
+|속성|영문명칭|설명|
+|:----:|:----:|:----:|
+|1|경기|match|주인공이 경기에 참여한다|
+|2|연습|practice|주인공이 경기에 참여한다|
+|3|운동|health|주인공이 경기에 참여한다|
+|4|휴식|nap|주인공이 경기에 참여한다|
+|5|명상|meditation|주인공이 경기에 참여한다|
+
+<br>
+# [스토리보드]
+  <img src="./img/story.png">
